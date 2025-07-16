@@ -15,4 +15,4 @@ Projeto desenvolvido durante a **20ª edição do NLW da Rocketseat**, com foco 
 
 ## 📎 Links
 - [Certificado NLW](https://app.rocketseat.com.br/)
-- [Lindedin](https://www.linkedin.com/in/pedro-henrique-nogueira-porta/))
+- [Lindedin](https://www.linkedin.com/in/pedro-henrique-nogueira-porta/)
